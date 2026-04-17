@@ -1,8 +1,8 @@
 {
   "rmse_domain_knowledge": 0.007772102352646184,
-  "rmse_hybrid_model_chain": 0.0070849533755898905,
-  "rmse_hybrid_plus_vmmnet": 0.006593724648251604,
-  "rmse_hybrid_test_only": 0.013475007601159675,
-  "force_train_final_loss": 0.05568345308366994,
-  "quality_train_final_loss": 0.05433706447110478
+  "rmse_hybrid_model_chain": 0.007084699825556695,
+  "rmse_hybrid_plus_vmmnet": 0.00658084530371723,
+  "rmse_hybrid_test_only": 0.013447821956137177,
+  "force_train_final_loss": 0.05564461268600638,
+  "quality_train_final_loss": 0.05422595892206079
 }
