@@ -27,7 +27,3 @@ This project implements the core modeling chain described in:
 - `results/physical_digital_twin_simulation.gif`: physical + digital machining twin animation.
 - `results/physical_digital_twin_final.png`: final surface state comparison snapshot.
 
-
-
-- The real industrial data and machine integration stack from the paper are not publicly distributed in this folder, so this implementation provides a faithful and executable pipeline with synthetic but structured digital-thread data.
-- The code is dependency-light (NumPy-only learning stack) to run in constrained environments.
