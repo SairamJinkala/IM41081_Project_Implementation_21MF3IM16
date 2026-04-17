@@ -7,16 +7,6 @@ This project implements the core modeling chain described in:
 - ScienceDirect page: https://www.sciencedirect.com/science/article/pii/S0736584523000212
 
 
-## Project layout
-
-- `src/paperindu/data/digital_thread.py`: digital thread data creation and split strategy.
-- `src/paperindu/models/physical_force.py`: domain force model.
-- `src/paperindu/models/hybrid_force.py`: hybrid force residual model.
-- `src/paperindu/models/process_vmme.py`: VMME-style process model.
-- `src/paperindu/models/vmmnet.py`: residual quality model.
-- `src/paperindu/pipeline.py`: end-to-end training + evaluation pipeline.
-- `scripts/run_demo.py`: runnable entry point.
-
 ## Outputs
 
 - `results/metrics.json`: RMSE and training losses.
